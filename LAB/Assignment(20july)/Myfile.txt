@@ -1,0 +1,4 @@
+This is an example text file.
+It contains multiple lines and a variety of characters.
+Some lines are short, while others are long.
+The goal is to count vowels and consonants.

@@ -1,0 +1,6 @@
+This is a sample line.
+Here is another example of a line with more than five words.
+Short line.
+Another example which exceeds the five-word limit.
+Just a few words here.
+And yet another line that is definitely long enough to qualify.
